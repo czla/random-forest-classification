@@ -13,8 +13,9 @@ Two-Classes Prediction of bank customer's time deposit intention
 
 ## 数据集说明
 * 训练集样本数量：10578个，测试集样本数量：15929个  
-* 样本基本属性数量：20个，具体见[数据集详细说明](DataDescription.txt)  
-* 结果文件格式如下表，具体可参考[结果格式](MTSampleSubmission.csv)  
+* 样本基本属性数量：20个，具体见[**数据集详细说明**](DataDescription.txt)  
+* 结果文件格式如下表，具体可参考[**结果格式**](MTSampleSubmission.csv)  
+ 
 SampleId | y
 :-: | :-:
 0 | yes
@@ -30,11 +31,11 @@ SampleId | y
 
 ## 结果
 对测试预测输出结果：  
-[result](result.png)  
+![result](result.png)  
 
 指标 | 精度 | 综合得分
 :-: | :-: | :-:
 数值 | 0.894 | 0.901
 
-## LICENSE
+## License
 MIT
